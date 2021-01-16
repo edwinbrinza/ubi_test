@@ -1,0 +1,3 @@
+Part 1:
+-for the size of the table: show tblproperties schematransaction (and get the value of the property rawDataSize)
+-using HDFS and clusters with many distributed nodes, where data is replicated (by default the replication factor=3). In case of a failure, data can be taken from one of the replicas
